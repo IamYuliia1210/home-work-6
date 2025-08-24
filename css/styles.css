@@ -1,0 +1,168 @@
+td {
+  padding: 0px;
+}
+.container {
+  width: min(100% - 40px, 1340px);
+  height: 880px;
+  margin-inline: auto;
+}
+.sheets {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.data {
+  width: 50px;
+  height: 80px;
+  border: 1px solid black;
+}
+.cat {
+  width: auto;
+  height: 45px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
+.dog {
+  width: 158px;
+  height: 45px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
+.sun {
+  width: 132px;
+  height: 45px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #FFD915;
+}
+.sky {
+  width: 14px;
+  height: 321px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  background-color: #ffffff;
+}
+.run {
+  width: 45px;
+  height: 104px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
+.box {
+  width: 215px;
+  height: 215px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #E02215;
+}
+.car {
+  width: 132px;
+  height: 102px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #FFD915;
+}
+.hat {
+  width: 45px;
+  height: 156px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #ffffff; 
+}
+.pen {
+  width: 66px;
+  height: 102px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  background-color: #ffffff;
+}
+.toy {
+  width: 66px;
+  height: 102px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
+.bed {
+  width: 106px;
+  height: 100px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #000000;
+}
+.bus {
+  width: 102px;
+  height: 51px ;
+  border: 5px solid black;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
+.key {
+  width: 132px;
+  height: 48px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
+.cup {
+  width: 45px;
+  height: 100px ;
+  border: 5px solid black;
+  border-right-width: 8px;
+  background-color: #FFD915;
+}
+.mug {
+  width: 102px;
+  height: 47px ;
+  border: 5px solid black;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
+.map {
+  width: 134px;
+  height: 77px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #0D0AB6;
+}
+.fan {
+  width: 20px;
+  height: 100px ;
+  border: 5px solid black;
+  background-color: #E02215;
+}
+.zip {
+  width: 104px;
+  height: 50px ;
+  border: 5px solid black;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
+.egg {
+  max-width: 102px;
+  height: 25px ;
+  border: 5px solid black;
+  border-bottom-width: 8px;
+  border-right-width: 8px;
+  background-color: #000000;
+}
+.top {
+  width: 241px;
+  height: 17px ;
+  border: 5px solid black;
+  border-right-width: 8px;
+  background-color: #ffffff;
+}
